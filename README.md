@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ruthvikkalvala
 - 👀 I’m interested in ...Full stack Development
-- 🌱 I’m currently learning ...JAVASCRIPT,ReactJS,NodeJS,Express,MongoDB,HTML,CSS
+- 🌱 I’m currently explored in  ...JAVASCRIPT,ReactJS,Typescript, NodeJS,Express,MongoDB,HTML,CSS
 - 📫 reach me ...  https://www.linkedin.com/in/ruthvik-kalvala-2937261b9/
 
 <!---
